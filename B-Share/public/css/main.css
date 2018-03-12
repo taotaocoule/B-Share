@@ -1,0 +1,32 @@
+#main {
+	width: 70%;
+	margin-left: 15%;
+	height: 300px;
+}
+
+#header {
+	margin-top: 10px;
+}
+
+#enroll {
+	width: 70%;
+	margin-left: 15%;
+	height: 300px;
+}
+
+#library {
+	width: 70%;
+	margin-left: 15%;
+	height: 300px;
+}
+
+#admin {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#admin span {
+	margin-top: 10px;
+	width: 150px;
+	display: inline-block;
+}
